@@ -1,0 +1,147 @@
+{
+  "id": "growth-report-slide",
+  "title": "Growth report slide",
+  "original": "original.webp",
+  "base": "base.webp",
+  "seconds": 97,
+  "layers": [
+    {
+      "file": "layer-01.webp",
+      "name": "Header Text Q3 2026 GROWTH REPORT",
+      "description": "Extract the light blue text 'Q3 2026 \u00b7 GROWTH REPORT' only, no other surrounding elements",
+      "zIndex": 1,
+      "box": [
+        155,
+        127,
+        723,
+        154
+      ]
+    },
+    {
+      "file": "layer-02.webp",
+      "name": "Main Title The quarter in four numbers",
+      "description": "Extract the main title text 'The quarter in four numbers' with white and yellow colored characters, no other elements",
+      "zIndex": 2,
+      "box": [
+        154,
+        188,
+        1242,
+        410
+      ]
+    },
+    {
+      "file": "layer-03.webp",
+      "name": "Subtitle Description Text",
+      "description": "Extract the light gray descriptive paragraph text 'Product-led growth kept compounding: activation is up, support load is down, and revenue per seat crossed the plan.' only",
+      "zIndex": 3,
+      "box": [
+        155,
+        529,
+        1313,
+        626
+      ]
+    },
+    {
+      "file": "layer-04.webp",
+      "name": "Metric Card Monthly Active Users",
+      "description": "Extract the full white rounded metric card containing the user icon, '128k' purple text and 'Monthly active users' label, no extra background",
+      "zIndex": 4,
+      "box": [
+        153,
+        672,
+        634,
+        1008
+      ]
+    },
+    {
+      "file": "layer-05.webp",
+      "name": "Metric Card Annual Recurring Revenue",
+      "description": "Extract the full white rounded metric card containing the trend icon, '$4.2M' orange text and 'Annual recurring revenue' label, no extra background",
+      "zIndex": 5,
+      "box": [
+        685,
+        672,
+        1165,
+        1008
+      ]
+    },
+    {
+      "file": "layer-06.webp",
+      "name": "Metric Card Onboarding Completion",
+      "description": "Extract the full white rounded metric card containing the checkmark icon, '96%' green text and 'Onboarding completion' label, no extra background",
+      "zIndex": 6,
+      "box": [
+        153,
+        1056,
+        634,
+        1393
+      ]
+    },
+    {
+      "file": "layer-07.webp",
+      "name": "Metric Card Median Support Reply",
+      "description": "Extract the full white rounded metric card containing the clock icon, '1.8h' red text and 'Median support reply' label, no extra background",
+      "zIndex": 7,
+      "box": [
+        685,
+        1055,
+        1165,
+        1392
+      ]
+    },
+    {
+      "file": "layer-08.webp",
+      "name": "Yellow +42% Year on Year Badge",
+      "description": "Extract the full yellow circular badge with black text '+42% YEAR ON YEAR', no extra background",
+      "zIndex": 8,
+      "box": [
+        2054,
+        134,
+        2407,
+        487
+      ]
+    },
+    {
+      "file": "layer-09.webp",
+      "name": "New Seats Per Month Bar Chart Panel",
+      "description": "Extract the full dark rounded chart panel including title, description text and all four gradient blue bars with their labels, no extra background",
+      "zIndex": 9,
+      "box": [
+        1313,
+        640,
+        2401,
+        1393
+      ]
+    },
+    {
+      "file": "layer-10.webp",
+      "name": "Northstar Analytics Logo",
+      "description": "Extract the logo with gradient square icon and white text 'Northstar Analytics' only",
+      "zIndex": 10,
+      "box": [
+        154,
+        1475,
+        552,
+        1530
+      ]
+    },
+    {
+      "file": "layer-11.webp",
+      "name": "Footer Internal Note Text",
+      "description": "Extract the light gray footer text 'Internal \u00b7 All figures illustrative' only",
+      "zIndex": 11,
+      "box": [
+        2037,
+        1496,
+        2405,
+        1523
+      ]
+    }
+  ],
+  "width": 2560,
+  "height": 1600,
+  "credit": {
+    "text": "Mock slide made for this demo; all figures illustrative",
+    "href": "https://layergrab.com"
+  }
+}

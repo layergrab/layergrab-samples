@@ -1,0 +1,14 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The split results in this repository (the filled background "base" images, the
+layer PNG/WebP files and the JSON manifests) and the source images that were
+made for this demo are licensed under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution: "LayerGrab, https://layergrab.com".
+
+Exception: samples/sportswear-flat-lay/original.webp is a photograph by mr lee
+from Unsplash (https://unsplash.com/photos/888HU1GauzY), used under the
+Unsplash License (https://unsplash.com/license). The layers and base image
+derived from it are provided for evaluation of layer decomposition; the
+photograph itself stays under the Unsplash License.

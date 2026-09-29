@@ -1,0 +1,99 @@
+{
+  "id": "skincare-social-post",
+  "title": "Skincare Instagram post",
+  "original": "original.webp",
+  "base": "base.webp",
+  "seconds": 80,
+  "layers": [
+    {
+      "file": "layer-01.webp",
+      "name": "Top Left Green Leaf Sprig",
+      "description": "Fresh green leaf sprig with four glossy leaves and thin green stem, no extra elements included",
+      "zIndex": 1,
+      "box": [
+        205,
+        509,
+        564,
+        969
+      ]
+    },
+    {
+      "file": "layer-02.webp",
+      "name": "Bottom Right Green Leaf Sprig",
+      "description": "Fresh green leaf sprig with four glossy leaves and thin green stem, no extra elements included",
+      "zIndex": 2,
+      "box": [
+        1545,
+        1256,
+        1908,
+        1722
+      ]
+    },
+    {
+      "file": "layer-03.webp",
+      "name": "SUMMER GLOW Text",
+      "description": "Bold white uppercase text 'SUMMER GLOW', no extra elements included",
+      "zIndex": 3,
+      "box": [
+        430,
+        184,
+        1630,
+        302
+      ]
+    },
+    {
+      "file": "layer-04.webp",
+      "name": "Limited time offer Text",
+      "description": "White text 'Limited time offer', no extra elements included",
+      "zIndex": 4,
+      "box": [
+        704,
+        366,
+        1352,
+        430
+      ]
+    },
+    {
+      "file": "layer-05.webp",
+      "name": "Shop now Button",
+      "description": "Rounded white button with dark green text 'Shop now' and right-pointing arrow, no extra elements included",
+      "zIndex": 5,
+      "box": [
+        721,
+        1761,
+        1343,
+        1900
+      ]
+    },
+    {
+      "file": "layer-06.webp",
+      "name": "30% OFF Badge",
+      "description": "Circular discount badge with white outer border, dark green inner background and white text '30% OFF', no extra elements included",
+      "zIndex": 6,
+      "box": [
+        1436,
+        529,
+        1776,
+        868
+      ]
+    },
+    {
+      "file": "layer-07.webp",
+      "name": "Skincare Serum Bottle",
+      "description": "The frosted skincare serum bottle with white cap, light peach liquid inside and water droplets on glass surface, no extra elements included",
+      "zIndex": 7,
+      "box": [
+        833,
+        572,
+        1219,
+        1630
+      ]
+    }
+  ],
+  "width": 2048,
+  "height": 2048,
+  "credit": {
+    "text": "Mock post generated with Seedream 5.0",
+    "href": "https://apimodels.app"
+  }
+}

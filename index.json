@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ai-desk-illustration",
+    "title": "AI-generated desk illustration",
+    "width": 2352,
+    "height": 1760,
+    "layers": 9,
+    "seconds": 100,
+    "prompt": null,
+    "credit": {
+      "text": "Illustration generated with Seedream 5.0",
+      "href": "https://apimodels.app"
+    }
+  },
+  {
+    "id": "growth-report-slide",
+    "title": "Growth report slide",
+    "width": 2560,
+    "height": 1600,
+    "layers": 11,
+    "seconds": 97,
+    "prompt": null,
+    "credit": {
+      "text": "Mock slide made for this demo; all figures illustrative",
+      "href": "https://layergrab.com"
+    }
+  },
+  {
+    "id": "skincare-social-post",
+    "title": "Skincare Instagram post",
+    "width": 2048,
+    "height": 2048,
+    "layers": 7,
+    "seconds": 80,
+    "prompt": null,
+    "credit": {
+      "text": "Mock post generated with Seedream 5.0",
+      "href": "https://apimodels.app"
+    }
+  },
+  {
+    "id": "sportswear-flat-lay",
+    "title": "Sportswear flat-lay photo",
+    "width": 2416,
+    "height": 1616,
+    "layers": 15,
+    "seconds": 148,
+    "prompt": null,
+    "credit": {
+      "text": "Photo by mr lee on Unsplash",
+      "href": "https://unsplash.com/photos/flat-lay-photography-of-shoes-sunglasses-cap-pants-and-sport-brassiere-888HU1GauzY"
+    }
+  }
+]

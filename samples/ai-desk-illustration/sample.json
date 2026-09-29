@@ -1,0 +1,123 @@
+{
+  "id": "ai-desk-illustration",
+  "title": "AI-generated desk illustration",
+  "original": "original.webp",
+  "base": "base.webp",
+  "seconds": 100,
+  "layers": [
+    {
+      "file": "layer-01.webp",
+      "name": "Wooden octagonal desk",
+      "description": "The full octagonal wooden desk surface with wood grain texture, no other objects included.",
+      "zIndex": 1,
+      "box": [
+        87,
+        696,
+        2287,
+        1550
+      ]
+    },
+    {
+      "file": "layer-02.webp",
+      "name": "Small framed landscape photo",
+      "description": "Small brown wooden picture frame containing a minimalist landscape illustration with green hills and a yellow sun.",
+      "zIndex": 2,
+      "box": [
+        1502,
+        487,
+        1741,
+        738
+      ]
+    },
+    {
+      "file": "layer-03.webp",
+      "name": "Open notebook with pen",
+      "description": "Open lined notebook with black cover, off-white pages, and a black ballpoint pen resting on the right page.",
+      "zIndex": 3,
+      "box": [
+        384,
+        1091,
+        1081,
+        1456
+      ]
+    },
+    {
+      "file": "layer-04.webp",
+      "name": "Stack of three books",
+      "description": "Neat vertical stack of three books: top mint green, middle coral pink, bottom lavender purple, all with white page edges.",
+      "zIndex": 4,
+      "box": [
+        1565,
+        969,
+        2091,
+        1406
+      ]
+    },
+    {
+      "file": "layer-05.webp",
+      "name": "Monstera potted plant",
+      "description": "Potted monstera plant with four green fenestrated leaves, green stems, dark soil, and light cream square pot.",
+      "zIndex": 5,
+      "box": [
+        114,
+        197,
+        728,
+        1057
+      ]
+    },
+    {
+      "file": "layer-06.webp",
+      "name": "Potted plant in coffee mug",
+      "description": "Light cream double-handled mug filled with dark coffee-colored soil, holding a tiny seedling with two green leaves.",
+      "zIndex": 6,
+      "box": [
+        1604,
+        686,
+        1885,
+        952
+      ]
+    },
+    {
+      "file": "layer-07.webp",
+      "name": "Mint green adjustable desk lamp",
+      "description": "Mint green articulated desk lamp with round base, adjustable arms, and conical lampshade.",
+      "zIndex": 7,
+      "box": [
+        1668,
+        224,
+        2179,
+        1000
+      ]
+    },
+    {
+      "file": "layer-08.webp",
+      "name": "Sitting orange and white cat",
+      "description": "Cute cartoon cat with white fur and light orange patches, sitting upright facing the viewer.",
+      "zIndex": 8,
+      "box": [
+        1151,
+        920,
+        1547,
+        1454
+      ]
+    },
+    {
+      "file": "layer-09.webp",
+      "name": "Laptop with data visualization screen",
+      "description": "Silver laptop with gray keyboard, trackpad, and screen displaying colorful UI elements including pie chart, bar chart and line graph.",
+      "zIndex": 9,
+      "box": [
+        718,
+        277,
+        1548,
+        1015
+      ]
+    }
+  ],
+  "width": 2352,
+  "height": 1760,
+  "credit": {
+    "text": "Illustration generated with Seedream 5.0",
+    "href": "https://apimodels.app"
+  }
+}

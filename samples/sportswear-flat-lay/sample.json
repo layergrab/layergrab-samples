@@ -1,0 +1,195 @@
+{
+  "id": "sportswear-flat-lay",
+  "title": "Sportswear flat-lay photo",
+  "original": "original.webp",
+  "base": "base.webp",
+  "seconds": 148,
+  "layers": [
+    {
+      "file": "layer-01.webp",
+      "name": "White leg warmer",
+      "description": "Extract the standalone white leg warmer, no other objects included.",
+      "zIndex": 1,
+      "box": [
+        0,
+        86,
+        513,
+        568
+      ]
+    },
+    {
+      "file": "layer-02.webp",
+      "name": "Black leg warmer",
+      "description": "Extract the standalone black leg warmer with white stitching, no other objects included.",
+      "zIndex": 2,
+      "box": [
+        0,
+        342,
+        615,
+        614
+      ]
+    },
+    {
+      "file": "layer-03.webp",
+      "name": "Partial spray can",
+      "description": "Extract the partial white spray can with black label, no other objects included.",
+      "zIndex": 3,
+      "box": [
+        565,
+        0,
+        805,
+        163
+      ]
+    },
+    {
+      "file": "layer-04.webp",
+      "name": "Lip balm tube",
+      "description": "Extract the standalone white lip balm tube with printed text, no other objects included.",
+      "zIndex": 4,
+      "box": [
+        700,
+        19,
+        960,
+        188
+      ]
+    },
+    {
+      "file": "layer-05.webp",
+      "name": "White baseball cap",
+      "description": "Extract the standalone white baseball cap with red square 'have a good time' logo, no other objects included.",
+      "zIndex": 5,
+      "box": [
+        856,
+        33,
+        1271,
+        415
+      ]
+    },
+    {
+      "file": "layer-06.webp",
+      "name": "White frame sunglasses",
+      "description": "Extract the standalone white frame sunglasses with blue temple tips, no other objects included.",
+      "zIndex": 6,
+      "box": [
+        734,
+        430,
+        1098,
+        685
+      ]
+    },
+    {
+      "file": "layer-07.webp",
+      "name": "Left Puma sneaker",
+      "description": "Extract the standalone left white Puma slip-on sneaker, no other objects included.",
+      "zIndex": 7,
+      "box": [
+        1174,
+        245,
+        1565,
+        596
+      ]
+    },
+    {
+      "file": "layer-08.webp",
+      "name": "Right Puma sneaker",
+      "description": "Extract the standalone right white Puma slip-on sneaker, no other objects included.",
+      "zIndex": 8,
+      "box": [
+        1290,
+        276,
+        1649,
+        677
+      ]
+    },
+    {
+      "file": "layer-09.webp",
+      "name": "White sports bra",
+      "description": "Extract the standalone white sports bra with black bottom band, no other objects included.",
+      "zIndex": 9,
+      "box": [
+        40,
+        628,
+        795,
+        1234
+      ]
+    },
+    {
+      "file": "layer-10.webp",
+      "name": "Small spherical device",
+      "description": "Extract the standalone white and silver spherical electronic device, no other objects included.",
+      "zIndex": 10,
+      "box": [
+        1142,
+        723,
+        1271,
+        855
+      ]
+    },
+    {
+      "file": "layer-11.webp",
+      "name": "White body fat scale",
+      "description": "Extract the standalone white YUNMAI body fat scale, no other objects included.",
+      "zIndex": 11,
+      "box": [
+        1485,
+        506,
+        2338,
+        1161
+      ]
+    },
+    {
+      "file": "layer-12.webp",
+      "name": "Champion headband",
+      "description": "Extract the standalone white terry Champion headband with blue text logo, no other objects included.",
+      "zIndex": 12,
+      "box": [
+        1298,
+        934,
+        1624,
+        1198
+      ]
+    },
+    {
+      "file": "layer-13.webp",
+      "name": "White strap watch",
+      "description": "Extract the standalone white wrist watch with black outline and white dial, no other objects included.",
+      "zIndex": 13,
+      "box": [
+        658,
+        993,
+        1093,
+        1342
+      ]
+    },
+    {
+      "file": "layer-14.webp",
+      "name": "Champion wristband",
+      "description": "Extract the standalone white Champion wristband with red and blue C logo, no other objects included.",
+      "zIndex": 14,
+      "box": [
+        1662,
+        1172,
+        1890,
+        1386
+      ]
+    },
+    {
+      "file": "layer-15.webp",
+      "name": "Transparent zipper pouch",
+      "description": "Extract the standalone transparent zipper pouch with white edge, no other objects included.",
+      "zIndex": 15,
+      "box": [
+        853,
+        1060,
+        1638,
+        1595
+      ]
+    }
+  ],
+  "width": 2416,
+  "height": 1616,
+  "credit": {
+    "text": "Photo by mr lee on Unsplash",
+    "href": "https://unsplash.com/photos/flat-lay-photography-of-shoes-sunglasses-cap-pants-and-sport-brassiere-888HU1GauzY"
+  }
+}
