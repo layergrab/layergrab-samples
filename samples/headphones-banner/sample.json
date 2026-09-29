@@ -1,0 +1,99 @@
+{
+  "id": "headphones-banner",
+  "title": "Headphones product banner",
+  "original": "original.webp",
+  "base": "base.webp",
+  "seconds": 66,
+  "layers": [
+    {
+      "file": "layer-01.webp",
+      "name": "SoundPeak Logo and Brand Text",
+      "description": "Extract the SoundPeak brand logo and the text 'SoundPeak', no extra elements included.",
+      "zIndex": 1,
+      "box": [
+        181,
+        98,
+        620,
+        168
+      ]
+    },
+    {
+      "file": "layer-02.webp",
+      "name": "Headline Text Silence Everything",
+      "description": "Extract the bold dark blue headline text 'Silence Everything', no extra elements included.",
+      "zIndex": 2,
+      "box": [
+        179,
+        352,
+        1169,
+        727
+      ]
+    },
+    {
+      "file": "layer-03.webp",
+      "name": "Subtitle Feature Text",
+      "description": "Extract the subtitle text 'Active noise cancelling, 40-hour battery', no extra elements included.",
+      "zIndex": 3,
+      "box": [
+        181,
+        772,
+        1099,
+        822
+      ]
+    },
+    {
+      "file": "layer-04.webp",
+      "name": "White Round Display Pedestal",
+      "description": "Extract the light blue round display pedestal that holds the headphones, no extra elements included.",
+      "zIndex": 4,
+      "box": [
+        1237,
+        1158,
+        2494,
+        1454
+      ]
+    },
+    {
+      "file": "layer-05.webp",
+      "name": "Yellow Price Tag $129",
+      "description": "Extract the yellow price tag with the text '$129', no extra elements included.",
+      "zIndex": 5,
+      "box": [
+        183,
+        868,
+        548,
+        1022
+      ]
+    },
+    {
+      "file": "layer-06.webp",
+      "name": "Shop Now Button",
+      "description": "Extract the dark blue rounded 'Shop Now' button with arrow, no extra elements included.",
+      "zIndex": 6,
+      "box": [
+        181,
+        1083,
+        689,
+        1218
+      ]
+    },
+    {
+      "file": "layer-07.webp",
+      "name": "Black Over-Ear Headphones",
+      "description": "Extract the black SoundPeak over-ear noise cancelling headphones, no extra elements included.",
+      "zIndex": 7,
+      "box": [
+        1393,
+        154,
+        2249,
+        1213
+      ]
+    }
+  ],
+  "width": 2720,
+  "height": 1536,
+  "credit": {
+    "text": "Banner generated with gpt-image-2 for this demo",
+    "href": "https://apimodels.app"
+  }
+}

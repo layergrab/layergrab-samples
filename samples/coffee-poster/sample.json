@@ -1,0 +1,135 @@
+{
+  "id": "coffee-poster",
+  "title": "Coffee shop poster",
+  "original": "original.webp",
+  "base": "base.webp",
+  "seconds": 100,
+  "layers": [
+    {
+      "file": "layer-01.webp",
+      "name": "AUTUMN LATTE WEEK headline text",
+      "description": "Extract the headline text 'AUTUMN LATTE WEEK' along with its small leaf decorative elements on both sides, no extra background content included.",
+      "zIndex": 1,
+      "box": [
+        136,
+        122,
+        1626,
+        538
+      ]
+    },
+    {
+      "file": "layer-02.webp",
+      "name": "20% OFF red badge",
+      "description": "Extract the circular red discount badge with white dashed outline and white text '20% OFF', no extra background content included.",
+      "zIndex": 2,
+      "box": [
+        1201,
+        615,
+        1674,
+        1088
+      ]
+    },
+    {
+      "file": "layer-03.webp",
+      "name": "Yellow maple leaf (top left)",
+      "description": "Extract the standalone yellow maple leaf located at top left of the cup, no extra background content included.",
+      "zIndex": 3,
+      "box": [
+        102,
+        772,
+        385,
+        1092
+      ]
+    },
+    {
+      "file": "layer-04.webp",
+      "name": "Red maple leaf (bottom left)",
+      "description": "Extract the standalone large red maple leaf located at bottom left of the cup, no extra background content included.",
+      "zIndex": 4,
+      "box": [
+        75,
+        1473,
+        549,
+        1995
+      ]
+    },
+    {
+      "file": "layer-05.webp",
+      "name": "Orange maple leaf (top right)",
+      "description": "Extract the standalone small red-orange maple leaf located at top right of the cup, no extra background content included.",
+      "zIndex": 5,
+      "box": [
+        1542,
+        1234,
+        1739,
+        1439
+      ]
+    },
+    {
+      "file": "layer-06.webp",
+      "name": "Orange maple leaf (bottom right)",
+      "description": "Extract the standalone orange-yellow maple leaf located at bottom right of the cup, no extra background content included.",
+      "zIndex": 6,
+      "box": [
+        1308,
+        1725,
+        1650,
+        2019
+      ]
+    },
+    {
+      "file": "layer-07.webp",
+      "name": "White coffee cup with pumpkin logo",
+      "description": "Extract the white ceramic coffee cup with handle and orange pumpkin graphic printed on its front, no extra background content included.",
+      "zIndex": 7,
+      "box": [
+        374,
+        925,
+        1529,
+        1917
+      ]
+    },
+    {
+      "file": "layer-08.webp",
+      "name": "Pumpkin spice latte drink base",
+      "description": "Extract the light brown pumpkin spice latte liquid base inside the cup, no extra background content included.",
+      "zIndex": 8,
+      "box": [
+        407,
+        953,
+        1308,
+        1293
+      ]
+    },
+    {
+      "file": "layer-09.webp",
+      "name": "Whipped cream topping with cinnamon dust",
+      "description": "Extract the swirled whipped cream topping sprinkled with fine brown cinnamon powder, no extra background content included.",
+      "zIndex": 9,
+      "box": [
+        461,
+        650,
+        1254,
+        1250
+      ]
+    },
+    {
+      "file": "layer-10.webp",
+      "name": "Bottom event info text",
+      "description": "Extract the bottom text content 'Oct 1 - Oct 7 \u00b7 Maple Street Caf\u00e9' along with its horizontal line decorations on both sides, no extra background content included.",
+      "zIndex": 10,
+      "box": [
+        176,
+        2158,
+        1584,
+        2235
+      ]
+    }
+  ],
+  "width": 1760,
+  "height": 2368,
+  "credit": {
+    "text": "Poster generated with gpt-image-2 for this demo",
+    "href": "https://apimodels.app"
+  }
+}

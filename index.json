@@ -13,6 +13,19 @@
     }
   },
   {
+    "id": "coffee-poster",
+    "title": "Coffee shop poster",
+    "width": 1760,
+    "height": 2368,
+    "layers": 10,
+    "seconds": 100,
+    "prompt": null,
+    "credit": {
+      "text": "Poster generated with gpt-image-2 for this demo",
+      "href": "https://apimodels.app"
+    }
+  },
+  {
     "id": "growth-report-slide",
     "title": "Growth report slide",
     "width": 2560,
@@ -23,6 +36,19 @@
     "credit": {
       "text": "Mock slide made for this demo; all figures illustrative",
       "href": "https://layergrab.com"
+    }
+  },
+  {
+    "id": "headphones-banner",
+    "title": "Headphones product banner",
+    "width": 2720,
+    "height": 1536,
+    "layers": 7,
+    "seconds": 66,
+    "prompt": null,
+    "credit": {
+      "text": "Banner generated with gpt-image-2 for this demo",
+      "href": "https://apimodels.app"
     }
   },
   {
